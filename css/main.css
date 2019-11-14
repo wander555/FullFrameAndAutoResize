@@ -1,0 +1,64 @@
+body{
+    background: transparent;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden;
+    font-family: "微软雅黑";
+    color: white;
+    text-align:center;
+}
+
+.bg1{
+    padding: 0;
+    margin: 0;
+    
+	text-align:left;
+	background:transparent;
+}
+
+.left1{
+	position: absolute;
+	background: red;
+	width: 404px;
+	height: 306px;
+    top: 92px;
+    left: 40px;
+	background-repeat: no-repeat;
+
+}
+.left2{
+	position: absolute;
+	background: blue;
+	width: 404px;
+	height: 134px;
+    top: 92px;
+    left: 40px;
+	background-repeat: no-repeat;
+
+}
+
+.center{
+
+}
+
+.right{
+	position: absolute;
+	background: green;
+	width: 412px;
+	height: 453px;
+    top: 92px;
+    right: 40px;
+	background-repeat: no-repeat;
+}
+
+.bottom{
+
+	position: absolute;
+	background: yellow;
+	width: 1283px;
+	height: 145px;
+    bottom: 40px;
+	background-repeat: no-repeat;
+}
+
